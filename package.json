@@ -1,6 +1,7 @@
 {
   "name": "fig-roll",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "descriptions": "Rolls up your figgy puddings",
   "author": {
     "name": "Kat Marchán",
     "email": "kzm@zkat.tech",
